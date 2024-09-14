@@ -15,7 +15,7 @@ Aqui estão algumas das tecnologias e linguagens que estou utilizando nos meus r
 ## Conecte-se Comigo
 
 - [LinkedIn](www.linkedin.com/in/márcio-henrique-arrais-dos-santos-1b2a97274)
-- [Portfólio]///
+  
 
 ---
 
