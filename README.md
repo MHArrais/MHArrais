@@ -15,6 +15,7 @@ Aqui estão algumas das tecnologias e linguagens que estou utilizando nos meus r
 ## Conecte-se Comigo
 
 - [LinkedIn](www.linkedin.com/in/márcio-henrique-arrais-dos-santos-1b2a97274)
+- [Instagram](https://www.instagram.com/bonezdead?igsh=MW42YWZ4OGU3b3N5&utm_source=qr)
   
 
 ---
