@@ -10,7 +10,7 @@ Meu objetivo é alcançar um nível de profissionalismo estável, e cada passo q
 
 Aqui estão algumas das tecnologias e linguagens que estou utilizando nos meus repositórios:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHArrais&layout=compact&langs_count=6)
 
 ## Conecte-se Comigo
 
